@@ -1,0 +1,9 @@
+.my-container {
+  height: 100vh;
+  padding-top: 4rem;
+  padding-bottom: 1px;
+  background-image: url("../../assets/Background-gray-textured.jpg");
+  background-repeat: round;
+  background-color: #ECECEC;
+  color: #606060;
+}
